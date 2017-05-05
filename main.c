@@ -3,6 +3,8 @@
 #include <time.h>
 
 
+//Jakub Czaja
+
 
 void czytaj_zmienna(char *, int *, char *);
 void zamiana(char *, int);
